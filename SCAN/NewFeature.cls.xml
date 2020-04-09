@@ -13,5 +13,13 @@ A class that adds a new feature.</Description>
 <Implementation><![CDATA[	Quit pX + pY
 ]]></Implementation>
 </Method>
+
+<Method name="Subtract">
+<ClassMethod>1</ClassMethod>
+<FormalSpec>pX:%Numeric,pY:%Numeric</FormalSpec>
+<ReturnType>%Numeric</ReturnType>
+<Implementation><![CDATA[	Quit pX - pY
+]]></Implementation>
+</Method>
 </Class>
 </Export>
