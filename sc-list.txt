@@ -1,1 +1,2 @@
+SCAN.NewFeature.cls
 SCAN.SourceControl.cls
